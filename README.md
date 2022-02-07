@@ -3,6 +3,8 @@
 In the meantime, this README file is under construction!**
 
 Hello! You are in ShySpaceSheep's GitHub profile!
+
+## 
 I've worked with these programming languages in one way or another:
 
 ![image](https://user-images.githubusercontent.com/82251402/152732531-8761efb5-09bc-4ecf-a6cf-eb47b26ecabc.png)
@@ -13,5 +15,8 @@ I've worked with these programming languages in one way or another:
 ![image](https://user-images.githubusercontent.com/82251402/152732014-ebeee432-6190-4f69-bef7-a054be691b9f.png)
 ![image](https://user-images.githubusercontent.com/82251402/152732127-ec9abc00-745d-43a8-be63-6056ed5f29b0.png)
 
+## External Links
+![image](https://user-images.githubusercontent.com/82251402/152750186-ea93fb0a-7626-4afd-9e8a-6b219604ec74.png)
+![image](https://user-images.githubusercontent.com/82251402/152750081-df60fe74-bf01-42b0-8a34-067718f53d9c.png)
 
-
+`shyspacesheep.github.io`
