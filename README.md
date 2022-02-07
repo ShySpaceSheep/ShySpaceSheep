@@ -16,7 +16,10 @@ I've worked with these programming languages in one way or another:
 ![image](https://user-images.githubusercontent.com/82251402/152732127-ec9abc00-745d-43a8-be63-6056ed5f29b0.png)
 
 ## External Links
-![image](https://user-images.githubusercontent.com/82251402/152750483-8731bab4-5516-4ceb-a61f-bfd518f6787c.png)
-![image](https://user-images.githubusercontent.com/82251402/152750566-a0c595d6-20c2-48e7-bfc4-75bdaff8819b.png)
+You can also find me outside of GitHub too! Although, they might be not related to anything programming or computers.
 
-`shyspacesheep.github.io`
+[![image](https://user-images.githubusercontent.com/82251402/152750483-8731bab4-5516-4ceb-a61f-bfd518f6787c.png)](https://www.youtube.com/channel/UCw34j64pg8LohupWa2aAt_w)
+[![image](https://user-images.githubusercontent.com/82251402/152750566-a0c595d6-20c2-48e7-bfc4-75bdaff8819b.png)](https://twitter.com/shyspacesheep)
+
+I'm planning to have a website where I could write some blogs every now and then and serve as a better listing for my future projects.
+Website-In-Progress: **[shyspacesheep.github.io](https://shyspacesheep.github.io)**
