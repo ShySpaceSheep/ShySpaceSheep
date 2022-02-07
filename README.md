@@ -1,10 +1,8 @@
 # About Me
+**NOTE: I've yet to complete my exploration of GitHub's features so things might look empty just yet.
+In the meantime, this README file is under construction!**
+
 Hello! You are in ShySpaceSheep's GitHub profile!
-
-I've yet to complete my exploration of GitHub's features so things might look empty just yet.
-
-**In the meantime, this README file is under construction!**
-
 I've worked with these programming languages in one way or another:
 
 ![image](https://user-images.githubusercontent.com/82251402/152732531-8761efb5-09bc-4ecf-a6cf-eb47b26ecabc.png)
