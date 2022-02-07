@@ -16,7 +16,7 @@ I've worked with these programming languages in one way or another:
 ![image](https://user-images.githubusercontent.com/82251402/152732127-ec9abc00-745d-43a8-be63-6056ed5f29b0.png)
 
 ## External Links
-![image](https://user-images.githubusercontent.com/82251402/152750186-ea93fb0a-7626-4afd-9e8a-6b219604ec74.png)
-![image](https://user-images.githubusercontent.com/82251402/152750081-df60fe74-bf01-42b0-8a34-067718f53d9c.png)
+![image](https://user-images.githubusercontent.com/82251402/152750483-8731bab4-5516-4ceb-a61f-bfd518f6787c.png)
+![image](https://user-images.githubusercontent.com/82251402/152750566-a0c595d6-20c2-48e7-bfc4-75bdaff8819b.png)
 
 `shyspacesheep.github.io`
