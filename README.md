@@ -2,7 +2,8 @@
 Hello! You are in ShySpaceSheep's GitHub profile! Hey that's me!
 
 ## Experience
-I've worked with these programming languages in one way or another:
+
+I've been coding for fun and for schoolwork since around 2016 and since then, I've worked with these programming languages in one way or another:
 
 <img src="https://user-images.githubusercontent.com/82251402/152732531-8761efb5-09bc-4ecf-a6cf-eb47b26ecabc.png" width="50" height="50" title="HTML5"></img>
 <img src="https://user-images.githubusercontent.com/82251402/152732567-01c76043-eac7-442d-82f6-6f2e8220aacc.png" width="50" height="50" title="CSS"></img>
