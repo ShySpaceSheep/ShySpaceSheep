@@ -1,5 +1,5 @@
 # About Me
-Hello! You are in ShySpaceSheep's GitHub profile! Hey that's me! a
+Hello! You are in ShySpaceSheep's GitHub profile! Hey that's me! 
 
 ## Experience
 
