@@ -1,5 +1,7 @@
 # About Me
-Hello! You are in ShySpaceSheep's GitHub profile! Hey that's me! 
+Hello! You are in ShySpaceSheep's GitHub profile! Hey that's me!
+
+Currently in college while doing programming stuff for study and for fun. 
 
 ## Experience
 
@@ -19,4 +21,3 @@ I want to further improve my skills and learn new languages that I could use and
 You can also find me outside of GitHub too, such as on <img src="https://user-images.githubusercontent.com/82251402/152758397-28aa6b6e-08a2-4a95-8d45-16d9526fa5c4.png" width="16" height="16"> **[YouTube](https://www.youtube.com/channel/UCw34j64pg8LohupWa2aAt_w)** and <img src="https://user-images.githubusercontent.com/82251402/152759009-7b4707be-3d9d-4aa6-9e85-a7052d07ca9a.png" width="16" height="16"> **[Twitter](https://twitter.com/shyspacesheep)**! However, they may have nothing to do with programming or computers.
 
 I'm planning to have a <img src="https://user-images.githubusercontent.com/82251402/152759821-c78e1c96-9724-4996-8e41-16dafddee36b.png" width="16" height="16"> **[GitHub Page website](https://shyspacesheep.github.io)** where I could write some blogs every now and then and serve as a better listing for my future projects. It's still under construction, so please be patient!
-dsd
