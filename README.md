@@ -4,6 +4,8 @@ Hello! You are in ShySpaceSheep's GitHub profile! Hey that's me!
 Currently in college while doing programming stuff for study and for fun.
 There's still a lot that needs to be learned and improve on so there's that too.
 
+It all started from modding games during my high school days and since then my interest in the larger world of programming grew bigger and bigger and well here we are now! I still do mod games from time to time. Seeing your code come to life in interesting ways really captivated me.
+
 ## Experience
 
 I've been coding for fun and for schoolwork since around 2016 and since then, I've worked with these programming languages in one way or another:
