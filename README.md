@@ -1,7 +1,8 @@
 # About Me
 Hello! You are in ShySpaceSheep's GitHub profile! Hey that's me!
 
-Currently in college while doing programming stuff for study and for fun. 
+Currently in college while doing programming stuff for study and for fun.
+There's still a lot that needs to be learned and improve on so there's that too.
 
 ## Experience
 
