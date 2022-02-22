@@ -25,5 +25,5 @@ I want to further improve my skills and learn new languages that I could use and
 
 ## External Links
 <img src="https://user-images.githubusercontent.com/82251402/152758397-28aa6b6e-08a2-4a95-8d45-16d9526fa5c4.png" width="16" height="16"> **[YouTube](https://www.youtube.com/channel/UCw34j64pg8LohupWa2aAt_w)**
-          <img src="https://user-images.githubusercontent.com/82251402/152759009-7b4707be-3d9d-4aa6-9e85-a7052d07ca9a.png" width="16" height="16"> **[Twitter](https://twitter.com/shyspacesheep)**
-          <img src="https://user-images.githubusercontent.com/82251402/152759821-c78e1c96-9724-4996-8e41-16dafddee36b.png" width="16" height="16"> **[GitHub Page website](https://shyspacesheep.github.io)**
+<img src="https://user-images.githubusercontent.com/82251402/152759009-7b4707be-3d9d-4aa6-9e85-a7052d07ca9a.png" width="16" height="16"> **[Twitter](https://twitter.com/shyspacesheep)**
+<img src="https://user-images.githubusercontent.com/82251402/152759821-c78e1c96-9724-4996-8e41-16dafddee36b.png" width="16" height="16"> **[GitHub Page](https://shyspacesheep.github.io)**
