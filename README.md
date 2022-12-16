@@ -23,5 +23,7 @@ As mentioned, I have no workplace experience as of now but that might change in 
 Currently, I am trying to master either Java or C# as my main OOP language and either Python or JavaScript for lightweight automation and back-end development for the web. I strive to continue learning them every day and to discover and learn more languages as time goes by, improving every step of the way.
 <hr>
 <div align="center">
-My socials which may or may not be related to programming or tech at all:
+My socials which may or may not be related to programming or tech at all: <br><br>
+<a href="https://www.youtube.com/channel/UCw34j64pg8LohupWa2aAt_w"><img src="https://user-images.githubusercontent.com/82251402/152758397-28aa6b6e-08a2-4a95-8d45-16d9526fa5c4.png" width="50" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/shyspacesheep"><img src="https://user-images.githubusercontent.com/82251402/152759009-7b4707be-3d9d-4aa6-9e85-a7052d07ca9a.png" width="50" height="50"></a>
 </div> 
