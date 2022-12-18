@@ -1,6 +1,6 @@
 # About ShySpaceSheep
 Hello world! This is ShySpaceSheep's GitHub page; that's me!
-I am currently in university, working towards my Bachelor's Degree in Computer Science.
+I am currently in university, working towards my Bachelor's Degree in Computer Science. eeeeeeeeeeeee
 
 I've developed a wide variety of intermediate-level skills in high school in fields such as writing, music, and art, up until I decided to make programming and computer science my field of choice when I first had a personal hands-on experience with game modding and other programming hobbies back in 2017 and had a quite nice experience with it. Presently, I mainly study my chosen field, with the aforementioned skills occasionally on the sidelines.
 
