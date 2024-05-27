@@ -1,9 +1,9 @@
 <h1 align="center"> A wild ShySpaceSheep appeared! </h1>
 <div align="center">
-  <img src="https://github.com/ShySpaceSheep/ShySpaceSheep/assets/82251402/886e6670-9d89-4113-8d30-e981ff160ebe" height="250" alt="Japan at night by LennSan">
+  <img src="https://github.com/ShySpaceSheep/ShySpaceSheep/assets/82251402/d1aecd2e-8830-4624-aafc-717e9c142cc2" height="200" alt="Japan at night by LennSan">
 </div>
 
-<p align="center"><b> Junior computer science student at your service! </b><br> I make stuff up for fun, work, and not-work...</p>
+<p align="center"><b> Junior computer science student at your service! </b><br> I make computer do funny stuff both for work and not-work...</p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ShySpaceSheep&show_icons=true&count_private=true&theme=onedark&card_width=320&rank_icon=github" height="150"> </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShySpaceSheep&layout=compact&theme=onedark&card_width=320" height="150"> </a>
