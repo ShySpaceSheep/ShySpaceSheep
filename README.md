@@ -1,25 +1,28 @@
 <h1 align="center"> A wild ShySpaceSheep appeared! </h1>
 <div align="center">
-  <img src="https://github.com/ShySpaceSheep/ShySpaceSheep/assets/82251402/d1aecd2e-8830-4624-aafc-717e9c142cc2" height="200" alt="Japan at night by LennSan">
+  <i>"It is what it is, it is where it is. Life simply goes on without you."</i>
+  <img src="https://github.com/ShySpaceSheep/ShySpaceSheep/assets/82251402/bafbfd33-225e-477a-9a76-f8b1c9b8dde2" height="200" alt="Japan at night by LennSan">
 </div>
 
-<p align="center"><b> Junior computer science student at your service! </b><br> I make computer do funny stuff both for work and not-work...</p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ShySpaceSheep&show_icons=true&count_private=true&theme=onedark&card_width=320&rank_icon=github" height="150"> </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShySpaceSheep&layout=compact&theme=onedark&card_width=320" height="150"> </a>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
-<!--
+
+<p align="center"><b> Junior computer science student at your service! </b><br> I make computers do funny stuff both for work and not-work...</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ShySpaceSheep&show_icons=true&count_private=true&theme=rose_pine&card_width=320&rank_icon=github" height="150"> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShySpaceSheep&layout=compact&theme=rose_pine&card_width=320" height="150"> </a>
 </p>
--->
+
+
+
 
 
 
