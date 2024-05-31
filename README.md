@@ -1,4 +1,3 @@
-<h1 align="center"> A wild ShySpaceSheep appeared! </h1>
 <div align="center">
   <i>"It is what it is, it is where it is. Life simply goes on without you."</i>
   <img src="https://github.com/ShySpaceSheep/ShySpaceSheep/assets/82251402/bafbfd33-225e-477a-9a76-f8b1c9b8dde2" height="125" alt="Japan at night by LennSan">
